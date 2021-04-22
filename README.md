@@ -187,6 +187,8 @@ now create new tab and check the speed
 
 # some extra config
 
+### 1 hiding tab bar
+
 for hiding tab bar right click on tab and then go to panel and then panel prefrence
 
 ![image](https://user-images.githubusercontent.com/50911878/115763815-7a8d5e00-a3c2-11eb-9de4-187dcc3ca508.png)
@@ -206,3 +208,24 @@ to
 
 ![image](https://user-images.githubusercontent.com/50911878/115764150-d7891400-a3c2-11eb-9aad-25f6a2d7f47d.png)
 
+
+### 2 to enable copy paste
+
+click on arrow at right side of the screen 
+
+![image](https://user-images.githubusercontent.com/50911878/115766180-49faf380-a3c5-11eb-8ffc-aedf3b6889d0.png)
+
+then click on `begin` 
+
+![image](https://user-images.githubusercontent.com/50911878/115765742-c3461680-a3c4-11eb-9305-e2797326e2b7.png)
+
+
+then `allow` 
+
+![image](https://user-images.githubusercontent.com/50911878/115766417-95150680-a3c5-11eb-8e3d-7526b8798ae6.png)
+
+then `ok`
+
+![image](https://user-images.githubusercontent.com/50911878/115766486-aa8a3080-a3c5-11eb-8d68-4bb1ee555873.png)
+
+Now you can copy & paste anything from remote desktop
