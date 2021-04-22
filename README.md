@@ -185,3 +185,24 @@ now create new tab and check the speed
 
 ---------
 
+# some extra config
+
+for hiding tab bar right click on tab and then go to panel and then panel prefrence
+
+![image](https://user-images.githubusercontent.com/50911878/115763815-7a8d5e00-a3c2-11eb-9de4-187dcc3ca508.png)
+
+
+then a dialog will be open 
+
+![image](https://user-images.githubusercontent.com/50911878/115763989-a90b3900-a3c2-11eb-905d-fedfa88a90a3.png)
+
+then select
+
+![image](https://user-images.githubusercontent.com/50911878/115764056-b9bbaf00-a3c2-11eb-97c3-28fe8bd50fcc.png)
+
+to 
+
+![image](https://user-images.githubusercontent.com/50911878/115764107-c9d38e80-a3c2-11eb-857c-fe072c91acd4.png)
+
+![image](https://user-images.githubusercontent.com/50911878/115764150-d7891400-a3c2-11eb-9aad-25f6a2d7f47d.png)
+
