@@ -89,7 +89,7 @@ now google sign in dilog will pop up then select any one of account to authorise
 ![image](https://user-images.githubusercontent.com/50911878/115753047-5a58a180-a3b8-11eb-8f44-3262a83ed6ca.png)
 
 
-**choose any one of the account**
+**choose any one of the account  {next time you have to use same account}**
 
 after authentication some key will be genreted
 
